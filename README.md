@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Buona_Fortuna](https://github.com/SantosZuber/Buona_Fortuna)
 
-- 🌱 I’m currently learning **CSS and Javascript**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me: **santoszuberbuhler2003@gmail.com**
 
