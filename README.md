@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santos Zuberbuhler</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Estim](https://github.com/SantosZuber/estim-zuberbuhler)
-
 - 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **santoszuberbuhler2003@gmail.com**
